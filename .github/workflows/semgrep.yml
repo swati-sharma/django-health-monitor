@@ -2,8 +2,7 @@ on:
   pull_request: {}
   push:
     branches:
-    - main
-    - master
+    - dev
     paths:
     - .github/workflows/semgrep.yml
   schedule:
