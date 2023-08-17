@@ -70,7 +70,7 @@ There were many people involved in creating  this application that were not invo
 
 Thank you `Gracenote <http://www.gracenote.com/>`_ for encouraging involvement in open-source projects.
 
-Tools used in rendering this package:
+Tools used in rendering this package are:
 
 *  Cookiecutter_
 *  `cookiecutter-djangopackage`_
